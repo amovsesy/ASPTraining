@@ -1,0 +1,127 @@
+body
+{
+    border: 0px;
+    margin: 0px; 
+
+}
+
+.HeadingBar
+{
+    background-color: Transparent;
+    vertical-align: middle;
+    color: yellow;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: normal;
+    height: 25px;
+}
+
+.NavigationBar
+{
+    background-color: #ffff66;
+    vertical-align: text-top;
+    color: steelblue;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    height: 1000px;
+}
+
+.SeparatorBar
+{
+    background-color: white;
+    height: 1;    
+}
+
+.SectionHeadingBar
+{
+    background-color: #3333CC;
+    vertical-align: middle;
+    height: 15px;
+    color: lemonchiffon;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.CalendarHeadingBar
+{
+    background-color: #ffff77;
+    vertical-align: middle;
+    height: 15px;
+    color: navy;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.MainBody
+{
+    background-color: white;
+    vertical-align: top;
+}
+
+.SectionHeading
+{
+    color: #1c1c72;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+.Heading
+{
+    color: 1c1c72;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.Content
+{
+    color: black;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    text-align: left;
+    
+}
+
+.SmallContent
+{
+    color: blue;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    text-align: left;
+    
+}
+
+.ContentSeparatorBar
+{
+    color: black;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 5pt;
+    font-weight: normal;
+    text-align: left;
+    
+}
+
+.NavLink
+{
+    color: blue;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.NavLink:hover
+{
+    color: red;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
