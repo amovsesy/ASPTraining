@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  
+  <Product ID="1">
+    <ProductName>Chai</ProductName>
+    <CategoryID>1</CategoryID>
+    <UnitPrice>18</UnitPrice>
+  </Product>
+  
+  <Product ID="2">
+    <ProductName>Chang</ProductName>     
+    <CategoryID>1</CategoryID>     
+    <UnitPrice>19</UnitPrice> 
+  </Product> 
+  
+  <Product ID="3">  
+    <ProductName>Aniseed Syrup</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>10</UnitPrice>
+  </Product>
+  
+  <Product ID="4">
+    <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>22</UnitPrice>
+  </Product>
+  
+  <Product ID="5">
+    <ProductName>Chef Anton's Gumbo Mix</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>21.35</UnitPrice>
+  </Product>
+  
+  <Product ID="6">
+    <ProductName>Grandma's Boysenberry Spread</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>25</UnitPrice>
+  </Product>
+  
+  <Product ID="7">
+    <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+    <CategoryID>7</CategoryID>
+    <UnitPrice>30</UnitPrice>
+  </Product>
+
+</Products>
